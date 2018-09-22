@@ -1,0 +1,1 @@
+puts hoge_hoge
